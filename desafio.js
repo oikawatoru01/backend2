@@ -11,3 +11,9 @@ let balas = 24;
 let inimigos = 12;
 let derrotar = balas - inimigos;
 
+console.log(`sobrou ${derrotar} balas`);
+
+let pontos1 = 13;
+let pontos2 = 20;
+let totalPontos = pontos1 + pontos2;
+let nivel = 5;
